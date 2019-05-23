@@ -45,7 +45,7 @@ and _setDegree()_ functions.
 
     double x[10] = {0,1,2,3,4,5,6,7,8,9};
     double y[10] = {0,0,5,5,0,0,3,4,5,6};
-    doulbe m[10] = {0,.5,.5,.5.,.25,.25,.75,1,1,1}
+    doulbe m[10] = {0,.5,.5,.5,.25,.25,.75,1,1,1}
 
     Spline stepSpline(x,y,10,0);
     Spline linearSpline(x,y,10,1);
